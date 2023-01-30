@@ -6,6 +6,6 @@
 
 <p align="center"><a href="https://www.secretflow.org.cn">官网</a> • <a href="https://www.secretflow.org.cn/docs/">文档</a> • <a href="https://survey.alipay.com/apps/zhiliao/FdC-vTsPM">体验</a>  • <a href="https://www.yuque.com/secret-flow/admin">语雀</a> • <a href="https://secretflow.zhubai.love">订阅</a> • <a href="https://space.bilibili.com/2073575923">B站</a></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/secretflow/.github/main/profile/annual_report_2022.jpg" width="1000" /></p>
+<p align="center"><a href="https://mp.weixin.qq.com/s/dMLq-6xumSSI5-k4OR8BdA"><img src="https://raw.githubusercontent.com/secretflow/.github/main/profile/monthly_report_22_12_23_01.jpg" width="1000" /></a></p>
 
-- 阅读完整报告：https://mp.weixin.qq.com/s/dUKo_y8JmYMrhCgzrhY-VA
+- 阅读隐语开源社区「12月、1月」精华月报：https://mp.weixin.qq.com/s/dMLq-6xumSSI5-k4OR8BdA
