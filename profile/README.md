@@ -6,6 +6,6 @@
 
 <p align="center"><a href="https://www.secretflow.org.cn">官网</a> • <a href="https://www.secretflow.org.cn/docs/">文档</a> • <a href="https://survey.alipay.com/apps/zhiliao/FdC-vTsPM">体验</a>  • <a href="https://www.yuque.com/secret-flow/admin">语雀</a> • <a href="https://secretflow.zhubai.love">订阅</a> • <a href="https://space.bilibili.com/2073575923">B站</a></p>
 
-<p align="center"><a target="_blank" href="https://mp.weixin.qq.com/s/dMLq-6xumSSI5-k4OR8BdA"><img src="https://raw.githubusercontent.com/secretflow/.github/main/profile/monthly_report_22_12_23_01.jpg" width="1000" /></a></p>
+<p align="center"><a target="_blank" href="https://mp.weixin.qq.com/s/-C9K3RwB6nD19oFmZrVhQg"><img src="https://raw.githubusercontent.com/secretflow/.github/main/profile/hz_meetup.jpg" width="1000" /></a></p>
 
-- 阅读隐语开源社区「12月、1月」精华月报：https://mp.weixin.qq.com/s/dMLq-6xumSSI5-k4OR8BdA
+- 点击[链接](https://mp.weixin.qq.com/s/-C9K3RwB6nD19oFmZrVhQg)即可线下报名/线上直播预约「隐语开源社区Meetup·杭州站」
