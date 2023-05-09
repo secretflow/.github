@@ -8,4 +8,4 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/secretflow/.github/main/profile/meetup_sz.png" width="1000" /></p>
 
-- 5月27日「隐语开源社区」Meetup深圳站 报名即将开启！
+- 5月27日「隐语开源社区」Meetup深圳站 报名开启！
