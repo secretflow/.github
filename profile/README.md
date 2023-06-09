@@ -8,4 +8,4 @@
 
 <p align="center"><a target="_blank" href="https://github.com/orgs/secretflow/discussions/647"><img src="https://raw.githubusercontent.com/secretflow/.github/main/profile/oscp_phase1.jpg" width="1000" /></a></p>
 
-- 隐语社区发布**隐语开源共建计划（SecretFlow Open Source Contribution Plan，简称 SF OSCP）**第一期啦，**特邀小伙伴们参与**，点击立即查看 [详细任务认领方式](https://github.com/orgs/secretflow/discussions/647) 
+- 隐语社区发布 **隐语开源共建计划(SecretFlow Open Source Contribution Plan，简称 SF OSCP)** 第一期啦，**特邀小伙伴们参与**，点击立即查看 [详细任务认领方式](https://github.com/orgs/secretflow/discussions/647) 
