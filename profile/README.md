@@ -6,6 +6,4 @@
 
 <p align="center"><a href="https://www.secretflow.org.cn">官网</a> • <a href="https://www.secretflow.org.cn/docs/">文档</a> • <a href="https://survey.alipay.com/apps/zhiliao/FdC-vTsPM">体验</a>  • <a href="https://www.yuque.com/secret-flow/admin">语雀</a> • <a href="https://secretflow.zhubai.love">订阅</a> • <a href="https://space.bilibili.com/2073575923">B站</a></p>
 
-<p align="center"><a target="_blank" href="https://github.com/orgs/secretflow/discussions/647"><img src="https://raw.githubusercontent.com/secretflow/.github/main/profile/oscp_phase1.jpg" width="1000" /></a></p>
-
-- 隐语社区发布 **隐语开源共建计划(SecretFlow Open Source Contribution Plan，简称 SF OSCP)** 第一期啦，**特邀小伙伴们参与**，点击立即查看 [详细任务认领方式](https://github.com/orgs/secretflow/discussions/647) 
+<p align="center"><a target="_blank"><img src="https://raw.githubusercontent.com/secretflow/.github/main/profile/meetup-sh-july-2023.png" width="1000" /></a></p>
