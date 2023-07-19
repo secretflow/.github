@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/secretflow/.github/main/profile/logo.svg" height="80" /></p>
 
 <p align="center">
-<a href="./README.zh-CN.md">简体中文</a>｜<a href="./README.md">English</a>
+<a href="https://github.com/secretflow/.github/blob/main/profile/README.zh-CN.md">简体中文</a>｜<a href="https://github.com/secretflow/.github/blob/main/profile/README.md">English</a>
 </p>
 
 <p align="center"><strong>SecretFlow: A Unified Privacy Computing Framework</strong></p>
