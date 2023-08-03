@@ -1,10 +1,14 @@
+# How to reuse this action
+# https://github.blog/2022-02-10-using-reusable-workflows-github-actions/
+
 name: "CLA Assistant"
 on:
   issue_comment:
     types: [created]
   pull_request_target:
     types: [opened,closed,synchronize]
-
+  workflow_call:
+  
 jobs:
   CLAssistant:
     runs-on: ubuntu-latest
