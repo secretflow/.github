@@ -10,4 +10,4 @@ jobs:
       - uses: DoozyX/clang-format-lint-action@v0.17
         with:
           extensions: h,cc
-          clangFormatVersion: 17
+          clangFormatVersion: 17.0.4
