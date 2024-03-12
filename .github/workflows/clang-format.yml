@@ -9,7 +9,6 @@ jobs:
       - uses: actions/checkout@v4.1.1
         with:
           ref: ${{ github.event.pull_request.head.sha }}
-      - uses: DoozyX/clang-format-lint-action@v0.17
+      - uses: jidicula/clang-format-action@dbc2305aa6bf6cad6e43dbe9679f8ae2094342c3 # latest
         with:
-          extensions: h,cc
-          clangFormatVersion: 17.0.4
+          clang-format-version: '18'
