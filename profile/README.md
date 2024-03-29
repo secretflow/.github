@@ -12,4 +12,4 @@
 
 <p align="center"><img src="https://mdn.alipayobjects.com/huamei_usjdcg/afts/img/A*YZ_fQL4MY7kAAAAAAAAAAAAADo6HAQ/original" height="350"/></p>
 
-<p align="center"><strong>「隐语城市行」深圳站｜“数据要素x”：探索生产易用性与技术创新力 线下活动正在报名中</strong>点击 <a href="https://mp.weixin.qq.com/s/9wzdq8ng901mE6zV3TofRw">这里</a> 即可报名 & 了解活动详情 </p>
+<p align="center"><strong>「隐语城市行」深圳站｜“数据要素x”：探索生产易用性与技术创新力 精彩回顾</strong>点击 <a href="[https://mp.weixin.qq.com/s/9wzdq8ng901mE6zV3TofRw](https://mp.weixin.qq.com/s/cGnLitYAJPAOSitUpXYYfw)">这里</a> 查看 </p>
