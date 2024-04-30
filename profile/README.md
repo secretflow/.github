@@ -10,6 +10,6 @@
 
 <p align="center"><a href="https://www.secretflow.org.cn">Official Website</a> • <a href="https://www.secretflow.org.cn/docs/">Document</a> • <a href="https://survey.alipay.com/apps/zhiliao/FdC-vTsPM">Try</a>  • <a href="https://www.yuque.com/secret-flow/admin">Yuque</a> • <a href="https://secretflow.zhubai.love">Subscribe</a> • <a href="https://space.bilibili.com/2073575923">Bilibili</a></p>
 
-<p align="center"><img src="https://mdn.alipayobjects.com/huamei_usjdcg/afts/img/A*T0cURKVBC-0AAAAAAAAAAAAADo6HAQ/original" height="350"/></p>
+<p align="center"><img src="https://mdn.alipayobjects.com/huamei_usjdcg/afts/img/A*3dtgQa2r8pIAAAAAAAAAAAAADo6HAQ/original" height="350"/></p>
 
-<p align="center"><strong>数据要素校园行｜山东大学站：产业界与学术界在数据要素流通技术的交流与探讨</strong> <a href="https://www.wjx.cn/vm/te5L8O1.aspx#">立即报名</a> ｜ <a href="https://mp.weixin.qq.com/s/J8JmjBLWitGERbaVRjJukg">查看活动详情</a> 
+<p align="center"><strong>「隐语城市行·成都站X蓉数大讲堂」 “数据要素x”：隐私计算软硬件结合，业务场景新实践探索 线下活动正在报名中 </strong> <a href="https://www.wjx.top/vm/QXZ7rcI.aspx#">立即报名</a> ｜ <a href="https://mp.weixin.qq.com/s/0HTlhd4PMY9uvaYQuKXgdQ">查看活动详情</a> 
