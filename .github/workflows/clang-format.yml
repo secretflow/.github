@@ -9,6 +9,6 @@ jobs:
       - uses: actions/checkout@v4.1.7
         with:
           ref: ${{ github.event.pull_request.head.sha }}
-      - uses: jidicula/clang-format-action@4dacb6087962f49cedccf872a80c610db1e0e02a # latest
+      - uses: jidicula/clang-format-action@7376b7de7e78cd047d2dc6249eb6217d019926d8 # latest
         with:
           clang-format-version: '18'
