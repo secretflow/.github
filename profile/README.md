@@ -10,6 +10,6 @@
 
 <p align="center"><a href="https://www.secretflow.org.cn">Official Website</a> • <a href="https://www.secretflow.org.cn/docs/">Document</a> • <a href="https://survey.alipay.com/apps/zhiliao/FdC-vTsPM">Try</a>  • <a href="https://www.yuque.com/secret-flow/admin">Yuque</a> • <a href="https://secretflow.zhubai.love">Subscribe</a> • <a href="https://space.bilibili.com/2073575923">Bilibili</a></p>
 
-<p align="center"><img src="https://mdn.alipayobjects.com/huamei_usjdcg/afts/img/A*_AVLR7Goa68AAAAAAAAAAAAADo6HAQ/original" height="350"/></p>
+<p align="center"><img src="https://mdn.alipayobjects.com/huamei_usjdcg/afts/img/A*ZnQrSazTkwgAAAAAAAAAAAAADo6HAQ/original" height="350"/></p>
 
 <p align="center"><strong>「隐语Live」线上直播系列干货持续进行，欢迎直播间围观。</strong> <a href="https://www.yuque.com/secret-flow/admin/kaelcgdgbibp20og">查看详情</a> 
