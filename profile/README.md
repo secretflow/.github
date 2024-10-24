@@ -12,4 +12,4 @@
 
 <p align="center"><img src="https://mdn.alipayobjects.com/huamei_fee1nm/afts/img/A*4yOFQIpfxAgAAAAAAAAAAAAADtLdAQ/original" height="350"/></p>
 
-<p align="center"><strong>学费全免，1980元课程限额30席，立即报名参加！。</strong> <a href="https://www.yuque.com/secret-flow/admin/kaelcgdgbibp20og">查看详情</a> 
+<p align="center"><strong>学费全免，1980元课程限额30席，立即扫码报名参加！。</strong> <a href="https://mp.weixin.qq.com/s/Z1ngOqYu7Woukoh5CZFohA">查看详情</a> 
