@@ -10,3 +10,5 @@ jobs:
       - uses: actions/checkout@v4
       - name: Run buildifier
         uses: jbajic/buildifier@v1
+        with:
+          buildifier-version: 7.3.1
