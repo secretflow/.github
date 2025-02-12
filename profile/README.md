@@ -10,6 +10,6 @@
 
 <p align="center"><a href="https://www.secretflow.org.cn">Official Website</a> • <a href="https://www.secretflow.org.cn/docs/">Document</a> • <a href="https://survey.alipay.com/apps/zhiliao/FdC-vTsPM">Try</a>  • <a href="https://www.yuque.com/secret-flow/admin">Yuque</a> • <a href="https://secretflow.zhubai.love">Subscribe</a> • <a href="https://space.bilibili.com/2073575923">Bilibili</a></p>
 
-<p align="center"><img src="https://mdn.alipayobjects.com/huamei_ytxjsu/afts/img/A*x7nURLdXh2MAAAAAAAAAAAAAehr5AQ/original" height="350"/></p>
+<p align="center"><img src="https://mdn.alipayobjects.com/huamei_ytxjsu/afts/img/A*8_xVT5WGe5YAAAAAAAAAAAAAehr5AQ/fmt.webp" height="350"/></p>
 
 <p align="center"><strong> 探索开源世界「开源学习坊」 </strong>  正式来袭，带来从开源软件通识到开源贡献全流程指南。一起探索开源世界，快速入门开源项目开发。 <a href="https://studio.secretflow.com/bootcamp/lzgwwl9gs90qf5b/overview">点击立即免费报名</a> 
