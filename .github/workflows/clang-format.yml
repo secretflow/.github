@@ -11,4 +11,4 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
       - uses: jidicula/clang-format-action@v4.14.0 # latest
         with:
-          clang-format-version: '18'
+          clang-format-version: '19'
