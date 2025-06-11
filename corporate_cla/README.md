@@ -7,7 +7,7 @@
 
 ## 获取副本
 请通过以下链接下载企业 CLA 的副本：
-- https://raw.githubusercontent.com/secretflow/.github/main/corporate_cla/Ant_Group_Open_Source_Corporate_CLA_English_Chinese_2023.pdf
+- https://github.com/secretflow/.github/blob/main/corporate_cla/Ant_Group_Open_Source_Corporate_CLA_English_Chinese_2023.pdf
 
 ## 签署方式
 1. 请按照企业 CLA 的要求填写相关信息，并在根据附录要求提供贡献内容的指定员工的初始名单 GitHub 账号及要贡献的内容和范围，请指明是哪些 SecretFlow 的 repo(s) 或者是整个 SecretFlow group。
@@ -28,7 +28,7 @@ If you have already signed the Individual CLA but need to contribute code on beh
 
 ## Obtaining a Copy
 Please download a copy of the Corporate CLA via the following link:
-- https://raw.githubusercontent.com/secretflow/.github/main/corporate_cla/Ant_Group_Open_Source_Corporate_CLA_English_Chinese_2023.pdf
+- https://github.com/secretflow/.github/blob/main/corporate_cla/Ant_Group_Open_Source_Corporate_CLA_English_Chinese_2023.pdf
 
 ## Signing Instructions
 1. Please fill in the relevant information as required by the Corporate CLA, and provide a list of designated employees who will be contributing in accordance with the schedule requirements, including their GitHub account and the content and scope of their contributions. Please specify which SecretFlow repo(s) or the entire SecretFlow group the contributions will be made to.
