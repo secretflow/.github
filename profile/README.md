@@ -13,6 +13,6 @@
 <p align="center"><strong>SecretFlow welcomes your contribution!</strong>  All contributors will receive: A SecretFlow Open Source Contributor Certificate & An exclusive SecretFlow T-shirt  <a href="https://studio.secretflow.com/activity/fhelc1w2nmx0g0n/detail">📌 Apply Now</a>  </p>
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/secretflow/.github/main/profile/oscp_4.jpeg" width="1000"/></p>
+<p align="center"><img src="https://mdn.alipayobjects.com/huamei_ytxjsu/afts/img/A*Y0VcRo3KF00AAAAAgCAAAAgAehr5AQ/fmt.webp" width="1000"/></p>
 
-<p align="center"><strong> SecretFlow Open Source Contribution Plan  </strong>  (referred to as OSCP) Phase 4 is here! Welcome to join in SecretFlow community building! <a href="https://studio.secretflow.com/activity/fy3n4tddfe3xteq/detail">Click to register now</a> 
+<p align="center"><strong> 第二届隐语杯数据挑战赛，报名开启。十万奖金，等你来战！  </strong>   <a href="https://www.atecup.cn/competitions/sf2025">Click to register now</a> 
