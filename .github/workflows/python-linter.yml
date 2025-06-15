@@ -12,7 +12,7 @@ jobs:
           egress-policy: audit
 
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: psf/black@8a737e727ac5ab2f1d4cf5876720ed276dc8dc4b # stable
+      - uses: psf/black@a34d23659a21260aed3c48b627d1e6c630f6cdb9 # stable
         with:
           jupyter: true
           version: "24.2.0"
