@@ -16,14 +16,14 @@ jobs:
         with:
           last-activity: 7
           labels: "OSCP,good first issue"
-          message: '温馨提醒：收到这留言意味的时间过去大半啦～，如果大佬还在完成PR过程中，请在下面留言是否继续完成 or 无法完成，如其他开发者看到留言无法完成，也欢迎参与认领，有任何疑问请添加小助手SecretFlow04。\n\nAs the task was not completed within the specified time, it has been unassigned for claiming. If you wish to continue working on it, please reclaim the task. Other developers are also welcome to claim it.'
+          message: '温馨提醒：收到此留言意味的时间过去大半啦～，如果大佬还在完成PR过程中，请在下面留言是否继续完成 or 无法完成，如其他开发者看到留言无法完成，也欢迎参与认领，有任何疑问请添加小助手SecretFlow04。\n\nAs the task was not completed within the specified time, it has been unassigned for claiming. If you wish to continue working on it, please reclaim the task. Other developers are also welcome to claim it.'
       - uses: boundfoxstudios/action-unassign-contributor-after-days-of-inactivity@eb02181edb32aa5eeff8e0979871d31399cf63a0 # main
         with:
           last-activity: 28
           labels: "OSCP,intermediate"
-          message: '温馨提醒：收到这留言意味的时间过去大半啦～，如果大佬还在完成PR过程中，请在下面留言是否继续完成 or 无法完成，如其他开发者看到留言无法完成，也欢迎参与认领，有任何疑问请添加小助手SecretFlow04。\n\nAs the task was not completed within the specified time, it has been unassigned for claiming. If you wish to continue working on it, please reclaim the task. Other developers are also welcome to claim it.'
+          message: '温馨提醒：收到此留言意味的时间过去大半啦～，如果大佬还在完成PR过程中，请在下面留言是否继续完成 or 无法完成，如其他开发者看到留言无法完成，也欢迎参与认领，有任何疑问请添加小助手SecretFlow04。\n\nAs the task was not completed within the specified time, it has been unassigned for claiming. If you wish to continue working on it, please reclaim the task. Other developers are also welcome to claim it.'
       - uses: boundfoxstudios/action-unassign-contributor-after-days-of-inactivity@eb02181edb32aa5eeff8e0979871d31399cf63a0 # main
         with:
           last-activity: 49
           labels: "OSCP,challenge"
-          message: '温馨提醒：收到这留言意味的时间过去大半啦～，如果大佬还在完成PR过程中，请在下面留言是否继续完成 or 无法完成，如其他开发者看到留言无法完成，也欢迎参与认领，有任何疑问请添加小助手SecretFlow04。\n\nAs the task was not completed within the specified time, it has been unassigned for claiming. If you wish to continue working on it, please reclaim the task. Other developers are also welcome to claim it.'
+          message: '温馨提醒：收到此留言意味的时间过去大半啦～，如果大佬还在完成PR过程中，请在下面留言是否继续完成 or 无法完成，如其他开发者看到留言无法完成，也欢迎参与认领，有任何疑问请添加小助手SecretFlow04。\n\nAs the task was not completed within the specified time, it has been unassigned for claiming. If you wish to continue working on it, please reclaim the task. Other developers are also welcome to claim it.'
