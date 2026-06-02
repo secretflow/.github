@@ -11,7 +11,7 @@ jobs:
         with:
           egress-policy: audit
 
-      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
       - uses: psf/black@8a737e727ac5ab2f1d4cf5876720ed276dc8dc4b # stable
         with:
           jupyter: true
