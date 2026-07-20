@@ -12,7 +12,7 @@ jobs:
         with:
           egress-policy: audit
 
-      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - name: Run buildifier
         uses: jbajic/buildifier@c9f11065442c33bc0a9a54fd17b934266360d762 # v1.0.1
         with:
